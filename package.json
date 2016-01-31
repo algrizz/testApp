@@ -1,0 +1,27 @@
+{
+  "name": "testApp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:algrizz/testApp.git"
+  },
+  "keywords": [
+    "learn",
+    "use",
+    "success"
+  ],
+  "author": "alberto perez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/algrizz/testApp/issues"
+  },
+  "homepage": "https://github.com/algrizz/testApp",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
